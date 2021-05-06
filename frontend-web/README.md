@@ -14,7 +14,7 @@ https://classic.yarnpkg.com/en/docs/install#mac-stable
 
 `npx create-react-app front-web --template typescript`
 
-#### Abra o vscode comando:  .code
+#### Abra o vscode comando:  code .
 
 ### Adicionando o `bootstrap`:
 
