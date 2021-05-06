@@ -8,13 +8,13 @@ https://nodejs.org/pt-br
 
 https://classic.yarnpkg.com/en/docs/install#mac-stable
 
-#### Abra o terminal na pasta raiz(dscatalog) `git bash`:
+### Abra o terminal na pasta raiz(dscatalog) `git bash`
 
 ### Criando projeto com o `create-react-app`:
 
 `npx create-react-app front-web --template typescript`
 
-#### Abra o vscode comando:  `code .`
+### Abra o vscode comando:  `code .`
 
 ### Adicionando o `bootstrap`:
 
