@@ -10,6 +10,8 @@ https://classic.yarnpkg.com/en/docs/install#mac-stable
 
 ### Criando projeto com o `create-react-app`:
 
+##### Abra o terminal na pasta raiz(dscatalog) :
+
 `npx create-react-app front-web --template typescript`
 
 ### Adicionando o `bootstrap`:
